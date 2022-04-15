@@ -23,7 +23,7 @@ Visualizing the data
 
 1. Why are customers using Uber the most?
 <Catrgory wise distribution of trips>
-  !(/docs/assets/Business.jpeg)
+  ![Category Business](/uber-Analysis/docs/assets/Business.jpeg)
   
 
 
