@@ -24,6 +24,7 @@ Visualizing the data
 1. Why are customers using Uber the most?
 <Catrgory wise distribution of trips>
   !(https://github.com/Nushkaaar/uber-Analysis/blob/gh-pages/D286521B-EDBB-4BC7-81C4-6E53D5EE247B_4_5005_c.jpeg)
+  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
